@@ -6,10 +6,10 @@ from telegram import Update, ForceReply
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # === CONFIGURATION ===
-TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TELEGRAM_BOT_TOKEN = '7110229849:AAHKRsAERovGQUaOe7mrV008QtYglLmEH30'
 SMTP_DEV_API_KEY = 'smtplabs_KHyTXCtUQAnw2zX9yH3d5G5aDqtiaBJaQMPe2ubGuR8kXjHr'
 MAIL_TM_API = 'https://api.mail.tm'
-OWNER_NAME = 'YourNameHere'
+OWNER_NAME = 'Rudra'
 GROUP_LINK = 'https://t.me/yourgrouplink'
 
 # === LOGGING ===
